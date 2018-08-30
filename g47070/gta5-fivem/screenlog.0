@@ -1,0 +1,414 @@
+INFO: No channel links found in configuration file.
+Resolved live-internal.fivem.net:30110 to 178.32.9.100:30110
+Found new resource salty_vehicleblackout-master in /home/zap370874/g47070/gta5-fivem/server-data/resources//salty_vehicleblackout-master
+Found new resource NeverWanted in /home/zap370874/g47070/gta5-fivem/server-data/resources//NeverWanted
+Found new resource fivem-map-hipster in /home/zap370874/g47070/gta5-fivem/server-data/resources//fivem-map-hipster
+Found new resource JF_RagdollKey in /home/zap370874/g47070/gta5-fivem/server-data/resources//JF_RagdollKey
+Found new resource NoReticle in /home/zap370874/g47070/gta5-fivem/server-data/resources//NoReticle
+Found new resource vehcontrol in /home/zap370874/g47070/gta5-fivem/server-data/resources//vehcontrol
+Found new resource mysql-async in /home/zap370874/g47070/gta5-fivem/server-data/resources//mysql-async
+Found new resource es_admin2 in /home/zap370874/g47070/gta5-fivem/server-data/resources//es_admin2
+Found new resource noplayerblips in /home/zap370874/g47070/gta5-fivem/server-data/resources//noplayerblips
+Found new resource Weaponry in /home/zap370874/g47070/gta5-fivem/server-data/resources//Weaponry
+Found new resource vMenu in /home/zap370874/g47070/gta5-fivem/server-data/resources//vMenu
+Found new resource runcode in /home/zap370874/g47070/gta5-fivem/server-data/resources//runcode
+Found new resource essentialmode in /home/zap370874/g47070/gta5-fivem/server-data/resources//essentialmode
+Found new resource fivem in /home/zap370874/g47070/gta5-fivem/server-data/resources//fivem
+Found new resource esplugin in /home/zap370874/g47070/gta5-fivem/server-data/resources//esplugin
+Found new resource 3dme in /home/zap370874/g47070/gta5-fivem/server-data/resources//3dme
+Found new resource emotes in /home/zap370874/g47070/gta5-fivem/server-data/resources//emotes
+Found new resource PvP in /home/zap370874/g47070/gta5-fivem/server-data/resources//PvP
+Found new resource fivem-map-skater in /home/zap370874/g47070/gta5-fivem/server-data/resources//fivem-map-skater
+Found new resource fivem-awesome1501 in /home/zap370874/g47070/gta5-fivem/server-data/resources//fivem-awesome1501
+Found new resource WeazelNewsCam-master in /home/zap370874/g47070/gta5-fivem/server-data/resources//WeazelNewsCam-master
+Found new resource mapmanager in /home/zap370874/g47070/gta5-fivem/server-data/resources//[managers]/mapmanager
+Found new resource channelfeed in /home/zap370874/g47070/gta5-fivem/server-data/resources//[gameplay]/channelfeed
+Found new resource obituary in /home/zap370874/g47070/gta5-fivem/server-data/resources//[gameplay]/obituary
+Found new resource obituary-deaths in /home/zap370874/g47070/gta5-fivem/server-data/resources//[gameplay]/obituary-deaths
+Found new resource playernames in /home/zap370874/g47070/gta5-fivem/server-data/resources//[gameplay]/playernames
+Found new resource irc in /home/zap370874/g47070/gta5-fivem/server-data/resources//[gameplay]/irc
+Found new resource race-test in /home/zap370874/g47070/gta5-fivem/server-data/resources//[gamemodes]/race-test
+Found new resource race in /home/zap370874/g47070/gta5-fivem/server-data/resources//[gamemodes]/race
+Found new resource esx_identy in /home/zap370874/g47070/gta5-fivem/server-data/resources//[esx]/esx_identy
+Found new resource esx_boilerplate in /home/zap370874/g47070/gta5-fivem/server-data/resources//[esx]/esx_boilerplate
+Found new resource esx_phone in /home/zap370874/g47070/gta5-fivem/server-data/resources//[esx]/esx_phone
+Found new resource esx_society in /home/zap370874/g47070/gta5-fivem/server-data/resources//[esx]/esx_society
+Found new resource esx_lscustom in /home/zap370874/g47070/gta5-fivem/server-data/resources//[esx]/esx_lscustom
+Found new resource esx_bankerjob in /home/zap370874/g47070/gta5-fivem/server-data/resources//[esx]/esx_bankerjob
+Found new resource esx_addonaccount in /home/zap370874/g47070/gta5-fivem/server-data/resources//[esx]/esx_addonaccount
+Found new resource esx_menu_default in /home/zap370874/g47070/gta5-fivem/server-data/resources//[esx]/esx_menu_default
+Found new resource esx_license in /home/zap370874/g47070/gta5-fivem/server-data/resources//[esx]/esx_license
+Found new resource cron in /home/zap370874/g47070/gta5-fivem/server-data/resources//[esx]/cron
+Found new resource esx_property in /home/zap370874/g47070/gta5-fivem/server-data/resources//[esx]/esx_property
+Found new resource esx_billing in /home/zap370874/g47070/gta5-fivem/server-data/resources//[esx]/esx_billing
+Found new resource async in /home/zap370874/g47070/gta5-fivem/server-data/resources//[esx]/async
+Found new resource instance in /home/zap370874/g47070/gta5-fivem/server-data/resources//[esx]/instance
+Found new resource esx_barbershop in /home/zap370874/g47070/gta5-fivem/server-data/resources//[esx]/esx_barbershop
+Found new resource esx_sit in /home/zap370874/g47070/gta5-fivem/server-data/resources//[esx]/esx_sit
+Found new resource esx_accessories in /home/zap370874/g47070/gta5-fivem/server-data/resources//[esx]/esx_accessories
+Found new resource esx_identity in /home/zap370874/g47070/gta5-fivem/server-data/resources//[esx]/esx_identity
+Found new resource es_extended in /home/zap370874/g47070/gta5-fivem/server-data/resources//[esx]/es_extended
+Found new resource esx_clotheshop in /home/zap370874/g47070/gta5-fivem/server-data/resources//[esx]/esx_clotheshop
+Found new resource esx_optionalneeds in /home/zap370874/g47070/gta5-fivem/server-data/resources//[esx]/esx_optionalneeds
+Found new resource es_camera in /home/zap370874/g47070/gta5-fivem/server-data/resources//[esx]/es_camera
+Found new resource esx_mecanojob in /home/zap370874/g47070/gta5-fivem/server-data/resources//[esx]/esx_mecanojob
+Found new resource esx_service in /home/zap370874/g47070/gta5-fivem/server-data/resources//[esx]/esx_service
+Found new resource esx_holdup in /home/zap370874/g47070/gta5-fivem/server-data/resources//[esx]/esx_holdup
+Found new resource esx_shops in /home/zap370874/g47070/gta5-fivem/server-data/resources//[esx]/esx_shops
+Found new resource esx_menu_list in /home/zap370874/g47070/gta5-fivem/server-data/resources//[esx]/esx_menu_list
+Found new resource esx_skin in /home/zap370874/g47070/gta5-fivem/server-data/resources//[esx]/esx_skin
+Found new resource esx_atm in /home/zap370874/g47070/gta5-fivem/server-data/resources//[esx]/esx_atm
+Found new resource skinchanger in /home/zap370874/g47070/gta5-fivem/server-data/resources//[esx]/skinchanger
+Found new resource esx_cruisecontrol in /home/zap370874/g47070/gta5-fivem/server-data/resources//[esx]/esx_cruisecontrol
+Found new resource esx_garage in /home/zap370874/g47070/gta5-fivem/server-data/resources//[esx]/esx_garage
+Found new resource esx_ident_test in /home/zap370874/g47070/gta5-fivem/server-data/resources//[esx]/esx_ident_test
+Found new resource esx_dmvschool in /home/zap370874/g47070/gta5-fivem/server-data/resources//[esx]/esx_dmvschool
+Found new resource esx_menu_dialog in /home/zap370874/g47070/gta5-fivem/server-data/resources//[esx]/esx_menu_dialog
+Found new resource esx_addoninventory in /home/zap370874/g47070/gta5-fivem/server-data/resources//[esx]/esx_addoninventory
+Found new resource esx_weashops in /home/zap370874/g47070/gta5-fivem/server-data/resources//[esx]/esx_weashops
+Found new resource esx_vehicleshop in /home/zap370874/g47070/gta5-fivem/server-data/resources//[esx]/esx_vehicleshop
+Found new resource esx_datastore in /home/zap370874/g47070/gta5-fivem/server-data/resources//[esx]/esx_datastore
+Found new resource esx_rpchat in /home/zap370874/g47070/gta5-fivem/server-data/resources//[esx]/esx_rpchat
+Found new resource esx_animations in /home/zap370874/g47070/gta5-fivem/server-data/resources//[esx]/esx_animations
+Found new resource esx_taxijob in /home/zap370874/g47070/gta5-fivem/server-data/resources//[esx]/esx_taxijob
+Found new resource esx_joblisting in /home/zap370874/g47070/gta5-fivem/server-data/resources//[esx]/esx_joblisting
+Found new resource esx_basicneeds in /home/zap370874/g47070/gta5-fivem/server-data/resources//[esx]/esx_basicneeds
+Found new resource esx_policejob in /home/zap370874/g47070/gta5-fivem/server-data/resources//[esx]/esx_policejob
+Found new resource esx_status in /home/zap370874/g47070/gta5-fivem/server-data/resources//[esx]/esx_status
+Found new resource esx_drugs in /home/zap370874/g47070/gta5-fivem/server-data/resources//[esx]/esx_drugs
+Found new resource esx_jobs in /home/zap370874/g47070/gta5-fivem/server-data/resources//[esx]/esx_jobs
+Found new resource esx_ambulancejob in /home/zap370874/g47070/gta5-fivem/server-data/resources//[esx]/esx_ambulancejob
+Found new resource esx_realestateagentjob in /home/zap370874/g47070/gta5-fivem/server-data/resources//[esx]/esx_realestateagentjob
+Found new resource esx_voice in /home/zap370874/g47070/gta5-fivem/server-data/resources//[esx]/esx_voice
+Found new resource betaguns in /home/zap370874/g47070/gta5-fivem/server-data/resources//[test]/betaguns
+Found new resource keks in /home/zap370874/g47070/gta5-fivem/server-data/resources//[test]/keks
+Found new resource gameInit in /home/zap370874/g47070/gta5-fivem/server-data/resources//[test]/gameInit
+Found new resource sessionmanager in /home/zap370874/g47070/gta5-fivem/server-data/resources//[system]/sessionmanager
+Found new resource hardcap in /home/zap370874/g47070/gta5-fivem/server-data/resources//[system]/hardcap
+Found new resource chat in /home/zap370874/g47070/gta5-fivem/server-data/resources//[system]/chat
+Found new resource rconlog in /home/zap370874/g47070/gta5-fivem/server-data/resources//[system]/rconlog
+Found new resource scoreboard in /home/zap370874/g47070/gta5-fivem/server-data/resources//[system]/scoreboard
+Found new resource baseevents in /home/zap370874/g47070/gta5-fivem/server-data/resources//[system]/baseevents
+Found new resource spawnmanager in /home/zap370874/g47070/gta5-fivem/server-data/resources//[system]/spawnmanager
+Found new resource yarn in /home/zap370874/g47070/gta5-fivem/server-data/resources//[system]/[builders]/yarn
+Started resource sessionmanager
+Loaded vMenuServer.net, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_1833832104
+Instantiated instance of script GHMatti.Http.RequestInternal.
+Instantiated instance of script GHMatti.Http.Request.
+Loaded Newtonsoft.Json, Version=11.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed into ScriptDomain_1833832104
+Instantiated instance of script vMenuServer.BanManager.
+Instantiated instance of script vMenuServer.MainServer.
+Instantiated instance of script vMenuServer.UpdateChecker.
+Started resource vMenu
+Started resource mapmanager
+Started resource chat
+Started resource spawnmanager
+Started gametype Freeroam
+Started resource fivem
+Started resource hardcap
+Started resource rconlog
+Started resource scoreboard
+Started resource playernames
+Loaded MySQLAsync.net, Version=2.0.4.0, Culture=neutral, PublicKeyToken=null into ScriptDomain_1305849253
+Instantiated instance of script MySQLAsync.MySQLAsync.
+Started resource mysql-async
+Started resource essentialmode
+Started resource esplugin
+Started resource es_admin2
+Started resource async
+Started resource cron
+Started resource baseevents
+Started resource es_extended
+Started resource esx_skin
+Started resource esx_datastore
+Started resource esx_accessories
+Started resource esx_addonaccount
+Started resource esx_addoninventory
+Started resource esx_phone
+Started resource esx_ambulancejob
+Started resource esx_animations
+Started resource esx_atm
+Started resource esx_bankerjob
+Started resource esx_barbershop
+Started resource esx_status
+Started resource esx_basicneeds
+Started resource esx_billing
+Started resource esx_boilerplate
+Started resource esx_clotheshop
+Started resource esx_cruisecontrol
+Started resource esx_license
+Started resource esx_dmvschool
+Started resource esx_drugs
+Started resource esx_garage
+Started resource esx_holdup
+Started resource esx_identity
+Started resource esx_joblisting
+Started resource skinchanger
+Started resource esx_jobs
+Started resource esx_lscustom
+Started resource esx_mecanojob
+Started resource esx_menu_default
+Started resource esx_menu_dialog
+Started resource esx_menu_list
+Started resource esx_optionalneeds
+Started resource esx_policejob
+Started resource instance
+Started resource esx_property
+Started resource esx_society
+Started resource esx_realestateagentjob
+Started resource esx_rpchat
+Started resource esx_service
+Started resource esx_shops
+Started resource esx_sit
+Started resource esx_taxijob
+Started resource esx_vehicleshop
+Started resource esx_voice
+Started resource esx_weashops
+Started resource es_camera
+Started resource PvP
+Started resource 3dme
+Started resource NeverWanted
+Started resource noplayerblips
+Started resource WeazelNewsCam-master
+Started resource salty_vehicleblackout-master
+Started resource emotes
+Started resource JF_RagdollKey
+Started resource Weaponry
+Stopping resource sessionmanager
+Started resource sessionmanager
+Authenticating server license key...
+Server license key authentication succeeded. Welcome!
+cfx> Sending heartbeat to live-internal.fivem.net:30110
+Started map fivem-map-skater
+Started resource fivem-map-skater
+
+Current version: 5.0.2
+Updater version: 5.0.3
+
+
+Version mismatch, you are currently not using the newest stable version of essentialmode. Please update
+
+Loaded MySqlConnector, Version=0.36.1.0, Culture=neutral, PublicKeyToken=d33d3e53aa5f8c92 into ScriptDomain_1305849253
+hitch warning: frame time of 489 milliseconds
+Loaded System.Threading.Tasks.Extensions, Version=4.1.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_1305849253
+Loaded System.Buffers, Version=4.0.1.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51 into ScriptDomain_1305849253
+hitch warning: frame time of 279 milliseconds
+
+[vMenu] Checking for updates.
+[vMenu] Your version of vMenu is up to date! Good job!
+Sending heartbeat to live-internal.fivem.net:30110
+Connecting: GamezJohn
+Connecting: Mark Wallbang
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Access denied for command add_principal.
+Access denied for command add_principal.
+hitch warning: frame time of 154 milliseconds
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+  at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException () [0x0000c] in <49fde7938a9b47b480042d844e818c7e>:0 
+  at (wrapper dynamic-method) System.Object.CallSite.Target(System.Runtime.CompilerServices.Closure,System.Runtime.CompilerServices.CallSite,object,int)
+  at System.Dynamic.UpdateDelegates.UpdateAndExecute2[T0,T1,TRet] (System.Runtime.CompilerServices.CallSite site, T0 arg0, T1 arg1) [0x0010f] in <c604966031ab4b22b00f53d65d333b24>:0 
+  at CitizenFX.Core.MsgPackDeserializer+<>c__DisplayClass36_1.<CreateRemoteFunctionReference>b__1 (System.Object res, System.Object err) [0x00246] in /src/code/client/clrcore/MsgPackDeserializer.cs:290 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod.InternalInvoke(System.Reflection.MonoMethod,object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00032] in <49fde7938a9b47b480042d844e818c7e>:0 
+   --- End of inner exception stack trace ---
+
+
+Server stack trace: 
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00048] in <49fde7938a9b47b480042d844e818c7e>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <49fde7938a9b47b480042d844e818c7e>:0 
+  at System.Delegate.DynamicInvokeImpl (System.Object[] args) [0x000e7] in <49fde7938a9b47b480042d844e818c7e>:0 
+  at System.MulticastDelegate.DynamicInvokeImpl (System.Object[] args) [0x00008] in <49fde7938a9b47b480042d844e818c7e>:0 
+  at System.Delegate.DynamicInvoke (System.Object[] args) [0x00000] in <49fde7938a9b47b480042d844e818c7e>:0 
+  at CitizenFX.Core.FunctionReference.Invoke (System.Int32 reference, System.Byte[] arguments) [0x00061] in /src/code/client/clrcore/FunctionReference.cs:62 
+  at CitizenFX.Core.InternalManager.CallRef (System.Int32 refIndex, System.Byte[] argsSerialized, System.IntPtr& retvalSerialized, System.Int32& retvalSize) [0x00000] in /src/code/client/clrcore/InternalManager.cs:247 
+  at (wrapper remoting-invoke-with-check) CitizenFX.Core.InternalManager.CallRef(int,byte[],intptr&,int&)
+  at (wrapper xdomain-dispatch) CitizenFX.Core.InternalManager.CallRef(object,byte[]&,byte[]&,int,byte[],int&)
+
+Exception rethrown at [0]: 
+  at (wrapper xdomain-invoke) CitizenFX.Core.InternalManager.CallRef(int,byte[],intptr&,int&)
+  at (wrapper remoting-invoke-with-check) CitizenFX.Core.InternalManager.CallRef(int,byte[],intptr&,int&)
+  at CitizenFX.Core.MonoScriptRuntime.CallRef (System.Int32 refIndex, System.Byte[] argsSerialized, System.Int32 argsSize, System.IntPtr& retvalSerialized, System.Int32& retvalSize) [0x00013] in /src/code/client/clrcore/MonoScriptRuntime.cs:151 
+Error resuming coroutine: citizen:/scripting/lua/MessagePack.lua:830: missing bytes
+stack traceback:
+        [C]: in function 'error'
+        citizen:/scripting/lua/MessagePack.lua:830: in method 'underflow'
+        citizen:/scripting/lua/MessagePack.lua:465: in field 'any'
+        citizen:/scripting/lua/MessagePack.lua:860: in field 'unpack'
+        citizen:/scripting/lua/scheduler.lua:563: in field 'cb'
+        citizen:/scripting/lua/scheduler.lua:345: in function <citizen:/scripting/lua/scheduler.lua:335>
+Connecting: Seth | Chrona
+Sending heartbeat to live-internal.fivem.net:30110
+Access denied for command add_principal.
+esx_ambulancejob: Seth | Chrona (steam:1100001066eb7c8) attempted combat logging!
+[SAVED] Mark Wallbang
+[SAVED] Seth | Chrona
+[SAVED] GamezJohn
+[SAVED] All players
+Sending heartbeat to live-internal.fivem.net:30110
+esx_ambulancejob: GamezJohn is reviving a player!
+esx_ambulancejob: GamezJohn is reviving a player!
+esx_ambulancejob: GamezJohn is reviving a player!
+Sending heartbeat to live-internal.fivem.net:30110
+MESSAGE => Seth | Chrona@ambulance : Medical attention required: unconscious citizen!
+^3Couldn't find resource esx_ambulancejobs.^7
+Stopping resource esx_ambulancejob
+Started resource esx_ambulancejob
+Stopping resource esx_ambulancejob
+Started resource esx_ambulancejob
+esx_ambulancejob: GamezJohn is reviving a player!
+esx_ambulancejob: GamezJohn is reviving a player!
+esx_ambulancejob: GamezJohn is reviving a player!
+esx_ambulancejob: GamezJohn is reviving a player!
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+[SAVED] GamezJohn
+[SAVED] Mark Wallbang
+[SAVED] Seth | Chrona
+[SAVED] All players
+esx_ambulancejob: GamezJohn is reviving a player!
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+[SAVED] Seth | Chrona
+[SAVED] GamezJohn
+[SAVED] Mark Wallbang
+[SAVED] All players
+Sending heartbeat to live-internal.fivem.net:30110
+Connecting: RealAlexx
+Sending heartbeat to live-internal.fivem.net:30110
+Access denied for command add_principal.
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+  at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException () [0x0000c] in <49fde7938a9b47b480042d844e818c7e>:0 
+  at (wrapper dynamic-method) System.Object.CallSite.Target(System.Runtime.CompilerServices.Closure,System.Runtime.CompilerServices.CallSite,object,int)
+  at CitizenFX.Core.MsgPackDeserializer+<>c__DisplayClass36_1.<CreateRemoteFunctionReference>b__1 (System.Object res, System.Object err) [0x00246] in /src/code/client/clrcore/MsgPackDeserializer.cs:290 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod.InternalInvoke(System.Reflection.MonoMethod,object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00032] in <49fde7938a9b47b480042d844e818c7e>:0 
+   --- End of inner exception stack trace ---
+
+
+Server stack trace: 
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00048] in <49fde7938a9b47b480042d844e818c7e>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <49fde7938a9b47b480042d844e818c7e>:0 
+  at System.Delegate.DynamicInvokeImpl (System.Object[] args) [0x000e7] in <49fde7938a9b47b480042d844e818c7e>:0 
+  at System.MulticastDelegate.DynamicInvokeImpl (System.Object[] args) [0x00008] in <49fde7938a9b47b480042d844e818c7e>:0 
+  at System.Delegate.DynamicInvoke (System.Object[] args) [0x00000] in <49fde7938a9b47b480042d844e818c7e>:0 
+  at CitizenFX.Core.FunctionReference.Invoke (System.Int32 reference, System.Byte[] arguments) [0x00061] in /src/code/client/clrcore/FunctionReference.cs:62 
+  at CitizenFX.Core.InternalManager.CallRef (System.Int32 refIndex, System.Byte[] argsSerialized, System.IntPtr& retvalSerialized, System.Int32& retvalSize) [0x00000] in /src/code/client/clrcore/InternalManager.cs:247 
+  at (wrapper remoting-invoke-with-check) CitizenFX.Core.InternalManager.CallRef(int,byte[],intptr&,int&)
+  at (wrapper xdomain-dispatch) CitizenFX.Core.InternalManager.CallRef(object,byte[]&,byte[]&,int,byte[],int&)
+
+Exception rethrown at [0]: 
+  at (wrapper xdomain-invoke) CitizenFX.Core.InternalManager.CallRef(int,byte[],intptr&,int&)
+  at (wrapper remoting-invoke-with-check) CitizenFX.Core.InternalManager.CallRef(int,byte[],intptr&,int&)
+  at CitizenFX.Core.MonoScriptRuntime.CallRef (System.Int32 refIndex, System.Byte[] argsSerialized, System.Int32 argsSize, System.IntPtr& retvalSerialized, System.Int32& retvalSize) [0x00013] in /src/code/client/clrcore/MonoScriptRuntime.cs:151 
+Error resuming coroutine: citizen:/scripting/lua/MessagePack.lua:830: missing bytes
+stack traceback:
+        [C]: in function 'error'
+        citizen:/scripting/lua/MessagePack.lua:830: in method 'underflow'
+        citizen:/scripting/lua/MessagePack.lua:465: in field 'any'
+        citizen:/scripting/lua/MessagePack.lua:860: in field 'unpack'
+        citizen:/scripting/lua/scheduler.lua:563: in field 'cb'
+        citizen:/scripting/lua/scheduler.lua:345: in function <citizen:/scripting/lua/scheduler.lua:335>
+Sending heartbeat to live-internal.fivem.net:30110
+Connecting: Eckardt
+Sending heartbeat to live-internal.fivem.net:30110
+Access denied for command add_principal.
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+  at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException () [0x0000c] in <49fde7938a9b47b480042d844e818c7e>:0 
+  at (wrapper dynamic-method) System.Object.CallSite.Target(System.Runtime.CompilerServices.Closure,System.Runtime.CompilerServices.CallSite,object,int)
+  at CitizenFX.Core.MsgPackDeserializer+<>c__DisplayClass36_1.<CreateRemoteFunctionReference>b__1 (System.Object res, System.Object err) [0x00246] in /src/code/client/clrcore/MsgPackDeserializer.cs:290 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod.InternalInvoke(System.Reflection.MonoMethod,object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00032] in <49fde7938a9b47b480042d844e818c7e>:0 
+   --- End of inner exception stack trace ---
+
+
+Server stack trace: 
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00048] in <49fde7938a9b47b480042d844e818c7e>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <49fde7938a9b47b480042d844e818c7e>:0 
+  at System.Delegate.DynamicInvokeImpl (System.Object[] args) [0x000e7] in <49fde7938a9b47b480042d844e818c7e>:0 
+  at System.MulticastDelegate.DynamicInvokeImpl (System.Object[] args) [0x00008] in <49fde7938a9b47b480042d844e818c7e>:0 
+  at System.Delegate.DynamicInvoke (System.Object[] args) [0x00000] in <49fde7938a9b47b480042d844e818c7e>:0 
+  at CitizenFX.Core.FunctionReference.Invoke (System.Int32 reference, System.Byte[] arguments) [0x00061] in /src/code/client/clrcore/FunctionReference.cs:62 
+  at CitizenFX.Core.InternalManager.CallRef (System.Int32 refIndex, System.Byte[] argsSerialized, System.IntPtr& retvalSerialized, System.Int32& retvalSize) [0x00000] in /src/code/client/clrcore/InternalManager.cs:247 
+  at (wrapper remoting-invoke-with-check) CitizenFX.Core.InternalManager.CallRef(int,byte[],intptr&,int&)
+  at (wrapper xdomain-dispatch) CitizenFX.Core.InternalManager.CallRef(object,byte[]&,byte[]&,int,byte[],int&)
+
+Exception rethrown at [0]: 
+  at (wrapper xdomain-invoke) CitizenFX.Core.InternalManager.CallRef(int,byte[],intptr&,int&)
+  at (wrapper remoting-invoke-with-check) CitizenFX.Core.InternalManager.CallRef(int,byte[],intptr&,int&)
+  at CitizenFX.Core.MonoScriptRuntime.CallRef (System.Int32 refIndex, System.Byte[] argsSerialized, System.Int32 argsSize, System.IntPtr& retvalSerialized, System.Int32& retvalSize) [0x00013] in /src/code/client/clrcore/MonoScriptRuntime.cs:151 
+Error resuming coroutine: citizen:/scripting/lua/MessagePack.lua:830: missing bytes
+stack traceback:
+        [C]: in function 'error'
+        citizen:/scripting/lua/MessagePack.lua:830: in method 'underflow'
+        citizen:/scripting/lua/MessagePack.lua:465: in field 'any'
+        citizen:/scripting/lua/MessagePack.lua:860: in field 'unpack'
+        citizen:/scripting/lua/scheduler.lua:563: in field 'cb'
+        citizen:/scripting/lua/scheduler.lua:345: in function <citizen:/scripting/lua/scheduler.lua:335>
+RealAlexx: a
+[SAVED] Eckardt
+[SAVED] RealAlexx
+[SAVED] GamezJohn
+[SAVED] Seth | Chrona
+[SAVED] Mark Wallbang
+[SAVED] All players
+Connecting: Garrett Aelito
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+[SAVED] Eckardt
+Connecting: Eckardt
+Sending heartbeat to live-internal.fivem.net:30110
+Access denied for command add_principal.
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+  at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException () [0x0000c] in <49fde7938a9b47b480042d844e818c7e>:0 
+  at (wrapper dynamic-method) System.Object.CallSite.Target(System.Runtime.CompilerServices.Closure,System.Runtime.CompilerServices.CallSite,object,int)
+  at CitizenFX.Core.MsgPackDeserializer+<>c__DisplayClass36_1.<CreateRemoteFunctionReference>b__1 (System.Object res, System.Object err) [0x00246] in /src/code/client/clrcore/MsgPackDeserializer.cs:290 
+  at (wrapper managed-to-native) System.Reflection.MonoMethod.InternalInvoke(System.Reflection.MonoMethod,object,object[],System.Exception&)
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00032] in <49fde7938a9b47b480042d844e818c7e>:0 
+   --- End of inner exception stack trace ---
+
+
+Server stack trace: 
+  at System.Reflection.MonoMethod.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00048] in <49fde7938a9b47b480042d844e818c7e>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <49fde7938a9b47b480042d844e818c7e>:0 
+  at System.Delegate.DynamicInvokeImpl (System.Object[] args) [0x000e7] in <49fde7938a9b47b480042d844e818c7e>:0 
+  at System.MulticastDelegate.DynamicInvokeImpl (System.Object[] args) [0x00008] in <49fde7938a9b47b480042d844e818c7e>:0 
+  at System.Delegate.DynamicInvoke (System.Object[] args) [0x00000] in <49fde7938a9b47b480042d844e818c7e>:0 
+  at CitizenFX.Core.FunctionReference.Invoke (System.Int32 reference, System.Byte[] arguments) [0x00061] in /src/code/client/clrcore/FunctionReference.cs:62 
+  at CitizenFX.Core.InternalManager.CallRef (System.Int32 refIndex, System.Byte[] argsSerialized, System.IntPtr& retvalSerialized, System.Int32& retvalSize) [0x00000] in /src/code/client/clrcore/InternalManager.cs:247 
+  at (wrapper remoting-invoke-with-check) CitizenFX.Core.InternalManager.CallRef(int,byte[],intptr&,int&)
+  at (wrapper xdomain-dispatch) CitizenFX.Core.InternalManager.CallRef(object,byte[]&,byte[]&,int,byte[],int&)
+
+Exception rethrown at [0]: 
+  at (wrapper xdomain-invoke) CitizenFX.Core.InternalManager.CallRef(int,byte[],intptr&,int&)
+  at (wrapper remoting-invoke-with-check) CitizenFX.Core.InternalManager.CallRef(int,byte[],intptr&,int&)
+  at CitizenFX.Core.MonoScriptRuntime.CallRef (System.Int32 refIndex, System.Byte[] argsSerialized, System.Int32 argsSize, System.IntPtr& retvalSerialized, System.Int32& retvalSize) [0x00013] in /src/code/client/clrcore/MonoScriptRuntime.cs:151 
+Error resuming coroutine: citizen:/scripting/lua/MessagePack.lua:830: missing bytes
+stack traceback:
+        [C]: in function 'error'
+        citizen:/scripting/lua/MessagePack.lua:830: in method 'underflow'
+        citizen:/scripting/lua/MessagePack.lua:465: in field 'any'
+        citizen:/scripting/lua/MessagePack.lua:860: in field 'unpack'
+        citizen:/scripting/lua/scheduler.lua:563: in field 'cb'
+        citizen:/scripting/lua/scheduler.lua:345: in function <citizen:/scripting/lua/scheduler.lua:335>
+Access denied for command add_principal.
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+MESSAGE => RealAlexx@ambulance : Medical attention required: unconscious citizen!
+[SAVED] Garrett Aelito
+[SAVED] GamezJohn
+[SAVED] Seth | Chrona
+[SAVED] RealAlexx
+[SAVED] Eckardt
+[SAVED] Mark Wallbang
+[SAVED] All players
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+Sending heartbeat to live-internal.fivem.net:30110
+[SAVED] RealAlexx
